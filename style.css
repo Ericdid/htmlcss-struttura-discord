@@ -24,16 +24,19 @@ header {
 .logo {
   border: 2px dashed black;
   width: 25%;
+  align-items: center;
 }
 .links {
   border: 2px dashed black;
   width: 50%;
   justify-content: center;
+  align-items: center;
 }
 .login {
   border: 2px dashed black;
   width: 25%;
   justify-content: end;
+  align-items: center;
 }
 .bg-blue {
   width: 100%;
