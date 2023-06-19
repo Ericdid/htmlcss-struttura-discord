@@ -14,7 +14,7 @@ header {
   display: flex;
 }
 
-.container {
+.head-container {
   min-width: 80%;
   height: 35px;
   background-color: goldenrod;
@@ -34,4 +34,81 @@ header {
   border: 2px dashed black;
   width: 25%;
   justify-content: end;
+}
+.bg-blue {
+  width: 100%;
+  height: 500px;
+  background-color: darkblue;
+  justify-content: center;
+  align-items: center;
+}
+.bg-pink {
+  width: 50%;
+  height: 70%;
+  background-color: palevioletred;
+  border: 2px dashed black;
+}
+.bg-white {
+  width: 100%;
+  height: 500px;
+  background-color: white;
+  justify-content: center;
+  align-items: center;
+}
+.bg-grey {
+  width: 100%;
+  height: 500px;
+  background-color: gray;
+  justify-content: center;
+  align-items: center;
+}
+.big-text {
+  width: 50%;
+  height: 70%;
+  background-color: dodgerblue;
+  border: 2px dashed black;
+}
+.small-text {
+  width: 30%;
+  height: 70%;
+  background-color: palevioletred;
+  border: 2px dashed black;
+}
+.big-bg {
+  width: 100%;
+  height: 900px;
+  background-color: gray;
+  justify-content: center;
+  align-items: center;
+}
+.big-content {
+  width: 80%;
+  height: 70%;
+  background-color: green;
+  border: 2px dashed black;
+}
+.last-section {
+  width: 100%;
+  height: 500px;
+  background-color: darkblue;
+  justify-content: center;
+  align-items: center;
+  border-bottom: 1px solid white;
+}
+.left-space {
+  width: 30%;
+  height: 90%;
+  background-color: palevioletred;
+  border: 2px dashed black;
+}
+.right-space {
+  width: 50%;
+  height: 90%;
+  background-color: aqua;
+  border: 2px dashed black;
+}
+.blank {
+  width: 25%;
+  height: 100%;
+  border: 2px dashed white;
 }
